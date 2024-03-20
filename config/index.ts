@@ -10,11 +10,11 @@ export const APP_INFO: AppInfo = {
   default_language: 'zh-Hans',
 }
 
-export const isShowPrompt = true
-export const promptTemplate = '你好'
+export const isShowPrompt = false
+export const promptTemplate = '你好我想算卦，该怎么做？'
 
 export const API_PREFIX = '/api'
 
 export const LOCALE_COOKIE_NAME = 'locale'
 
-export const DEFAULT_VALUE_MAX_LEN = 48
+export const DEFAULT_VALUE_MAX_LEN = 512

@@ -1,12 +1,12 @@
 const translation = {
   common: {
-    welcome: '欢迎使用',
+    welcome: '欢迎来到',
     appUnavailable: '应用不可用',
     appUnkonwError: '应用不可用',
   },
   chat: {
-    newChat: '新对话',
-    newChatDefaultName: '新的对话',
+    newChat: '新的一卦',
+    newChatDefaultName: '新的一卦',
     openingStatementTitle: '对话开场白',
     powerBy: 'Powered by',
     prompt: '提示词',
